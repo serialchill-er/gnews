@@ -1,0 +1,13 @@
+{
+	"commands": [
+		{
+			"description": "Hello world command",
+			"positionalArgs": [],
+			"args": [],
+			"isIndex": true,
+			"name": "*",
+			"path": "index.js",
+			"subCommands": []
+		}
+	]
+}
